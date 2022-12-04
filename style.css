@@ -517,6 +517,9 @@ main .container .right{
 }
 
 @media screen and (max-width: 992px) {
+    body{
+        font-size: 10px !important;
+    }
     nav .search-bar{
         display: none;
     }
